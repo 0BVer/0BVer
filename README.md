@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=I%20am%20coding%20BVer&fontSize=30&fontColor=888888)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=200&section=header&text=I%20am%20coding%20BVer&fontSize=30&fontColor=888888)
 
 # About Me
 I'm Young-Jun Kim (pls call me a BVer), <br>
@@ -39,7 +39,6 @@ other I can use<br>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=ffffff"/>
-<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=ffffff"/>
@@ -65,10 +64,11 @@ IDE<br>
 <br>
 
 favorite Tools<br>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=ffffff"/>
 <br>
