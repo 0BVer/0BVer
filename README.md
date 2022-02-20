@@ -10,8 +10,8 @@ My OS is win10 but macbook pro coming soon!
 
 <hr>
 
-# My tech stacks
-Language<br>
+# Tech Stacks I've Experienced
+### Language<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
@@ -19,21 +19,21 @@ Language<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <br>
 
-Framework<br>
+### Framework<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <br>
 
-Database<br>
+### Database<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff"/>
 <br>
 
-other I can use<br>
+### other I can use<br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
@@ -45,25 +45,25 @@ other I can use<br>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
 
-Monitoring<br>
+### Monitoring<br>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
 <br>
 
-AI (I don't work in this part anymore)<br>
+### AI (I don't work in this part anymore)<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=ffffff"/>
 <br>
 
-IDE<br>
+### IDE<br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff"/>
 <br>
 
-favorite Tools<br>
+### favorite Tools<br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
@@ -73,7 +73,7 @@ favorite Tools<br>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=ffffff"/>
 <br>
 
-I will learning<br>
+### I will learning<br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
