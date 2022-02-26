@@ -6,8 +6,6 @@
 I'm Young-Jun Kim (pls call me a BVer), <br>
 who wants to be the best as a Backend engineer!<br>
 
-My OS is win10 but macbook pro coming soon!
-
 <hr>
 
 # Tech Stacks I've Experienced
