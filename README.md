@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=200&section=header&text=I%20am%20coding%20BVer&fontSize=30&fontColor=888888)
 
 # About Me
-I'm Young-Jun Kim (pls call me a BVer), <br>
+I'm Young-Jun Kim (AKA. BVer), <br>
 who wants to be the best as a Backend engineer!<br>
 
 <hr>
