@@ -50,7 +50,7 @@ I will learning<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm)
 
-[![wakatime](https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg)](https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d)
+# [![wakatime](https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg)](https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d)
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888)
 
