@@ -45,10 +45,12 @@ other I have used<br>
 I will learning<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
-<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm)
+[//]: # (<hr>)
+
+[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm&#41;)
+
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm&#41;)
 
 [//]: # ([![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;)
 
