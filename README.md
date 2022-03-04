@@ -39,7 +39,6 @@ who wants to be the best as a Backend engineer!<br>
 ### AI<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=ffffff"/>
 <br>
 
 ### other I have used<br>
@@ -48,18 +47,6 @@ who wants to be the best as a Backend engineer!<br>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
-<br>
-
-### favorite IDE & Tools<br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff"/>
-<br>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
 <br>
 
 ### I will learning<br>
@@ -71,7 +58,6 @@ who wants to be the best as a Backend engineer!<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm)
 
 [![wakatime](https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg)](https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d)
-wakatime start at 20th.Feb.2022
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888)
 
