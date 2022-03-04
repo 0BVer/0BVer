@@ -7,26 +7,19 @@ who wants to be the best as a Backend engineer!<br>
 <hr>
 
 ### Tech Stacks I've Experienced
-### Language<br>
+Language<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <br>
 
-### Framework<br>
+Framework<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <br>
 
-### Database<br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff"/>
-<br>
-
-### DevOps & Monitoring<br>
+DevOps<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=ffffff"/>
@@ -36,12 +29,12 @@ who wants to be the best as a Backend engineer!<br>
 <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
 <br>
 
-### AI<br>
+AI<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff"/>
 <br>
 
-### other I have used<br>
+other I have used<br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
@@ -49,7 +42,7 @@ who wants to be the best as a Backend engineer!<br>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
 
-### I will learning<br>
+I will learning<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
 <hr>
