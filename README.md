@@ -52,7 +52,7 @@ I will learning<br>
 
 [//]: # ([![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;)
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888)
+[//]: # (![header]&#40;https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888&#41;)
 
 </div>
 
