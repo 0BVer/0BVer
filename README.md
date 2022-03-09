@@ -3,8 +3,8 @@
 ### About Me
 I'm Young-Jun Kim (AKA. BVer), <br>
 who wants to be the best as a Backend engineer!<br>
-<a href = "https://dr0joon.notion.site/BVer-ac9a5cfd7e6548e49a5ac754e4f3c9e8">Korean Resume</a>
-<hr>
+<!-- <a href = "https://dr0joon.notion.site/BVer-ac9a5cfd7e6548e49a5ac754e4f3c9e8">Korean Resume</a>
+<hr> -->
 
 ### Tech Stacks I've Experienced
 Language<br>
