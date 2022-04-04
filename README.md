@@ -1,9 +1,9 @@
 <div align="center">
 
 ### About Me
-I'm Young-Jun Kim (AKA. BVer), <br>
+I'm Young-Jun Kim, <br>
 who wants to be the best as a Backend engineer!<br>
-<a href = "https://dr0joon.notion.site/BVer-ac9a5cfd7e6548e49a5ac754e4f3c9e8">Korean Resume</a>
+<!-- <a href = "https://dr0joon.notion.site/BVer-ac9a5cfd7e6548e49a5ac754e4f3c9e8">Korean Resume</a> -->
 <hr>
 
 ### Tech Stacks I've Experienced
@@ -29,10 +29,10 @@ DevOps<br>
 <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
 <br>
 
-AI<br>
+<!-- AI<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff"/>
-<br>
+<br> -->
 
 other I have used<br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
