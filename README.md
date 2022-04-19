@@ -39,7 +39,7 @@ other I have used<br>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
+<!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/> -->
 <br>
 
 I will learning<br>
