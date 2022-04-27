@@ -3,7 +3,7 @@
 ### About Me
 I'm Young-Jun Kim, <br>
 <!-- who wants to be the best as a Backend engineer!<br> -->
-<a href = "https://dr0joon.notion.site/BVer-ac9a5cfd7e6548e49a5ac754e4f3c9e8">Korean Resume</a>
+<a href = "https://dr0joon.notion.site/e45e05ca1c19408f86bc9cf431c22802">Korean Resume</a>
 <hr>
 
 ### Tech Stacks I've Experienced
