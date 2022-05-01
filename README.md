@@ -51,9 +51,9 @@ I will learning<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
 
-(![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm&#41;)
+![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm&#41;
 
-([![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;)
+![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888)
 
