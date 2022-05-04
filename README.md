@@ -4,7 +4,7 @@
 I'm Young-Jun Kim, <br>
 <!-- who wants to be the best as a Backend engineer!<br> -->
 <a href = "https://dr0joon.notion.site/e45e05ca1c19408f86bc9cf431c22802">Korean Resume</a><br>
-<a href = "https://gitlab.com/0BVer">GitLab</a>
+<!-- <a href = "https://gitlab.com/0BVer">GitLab</a> -->
 <hr>
 
 ### Tech Stacks I've Experienced
