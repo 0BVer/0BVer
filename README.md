@@ -30,11 +30,6 @@ DevOps<br>
 <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
 <br>
 
-<!-- AI<br>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff"/>
-<br> -->
-
 other I have used<br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
@@ -46,7 +41,6 @@ other I have used<br>
 I will learning<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
-
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
