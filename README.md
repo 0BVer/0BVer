@@ -1,7 +1,7 @@
 <div align="center">
 
 ### About Me
-I'm Young-Jun Kim, <br>
+I'm Young-Jun Kim, <br> [In USA now] <br>
 <!-- who wants to be the best as a Backend engineer!<br> -->
 <a href = "https://dr0joon.notion.site/c4fd21c8bd4046c5ac241f49a86962dd">Korean Resume</a><br>
 <!-- <a href = "https://gitlab.com/0BVer">GitLab</a> -->
