@@ -3,7 +3,7 @@
 ### About Me
 I'm Young-Jun Kim, <br> 
 <!-- who wants to be the best as a Backend engineer!<br> -->
-<a href = "https://dr0joon.notion.site/c4fd21c8bd4046c5ac241f49a86962dd">Korean Resume</a><br>
+<a href = "https://docs.google.com/document/d/1Jyx8Vc9hGt20UP_oRKdw0YnAn6MpmxcifPztilCvHV0/edit?usp=sharing">Korean Resume</a><br>
 <!-- <a href = "https://gitlab.com/0BVer">GitLab</a> -->
 <hr>
 
