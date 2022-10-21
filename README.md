@@ -4,41 +4,49 @@
 I'm Young-Jun Kim, <br> 
 <!-- who wants to be the best as a Backend engineer!<br> -->
 <a href = "https://docs.google.com/document/d/1gV-7cceJdqhsjMrwCsY8Wv48iiP1rgmlmQSOvlBKO3k/edit#">Korean Resume</a><br>
-<!-- <a href = "https://gitlab.com/0BVer">GitLab</a> -->
+<a href = "https://medium.com/@0joon">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/youngjun-kim-94bb07213/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
+<a href = "dr0joon@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
+<br>click to move
 <hr>
 
 ### Tech Stacks I've Experienced
 Language<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br>
 
 Framework<br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff"/>
-<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/> -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <br>
 
 DevOps<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff"/>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=ffffff"/>
 <br>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
-<br><br>
+<br>
 
 other I have used<br>
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=ffffff"/>
-<!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/> -->
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 <br>
 
 I will learning<br>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
 <hr>
