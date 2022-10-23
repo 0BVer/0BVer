@@ -1,7 +1,7 @@
 <div align="center">
 
 ### About Me
-I'm Young-Jun Kim, <br> 
+I'm YOUNGJUN (Joon) KIM, <br> 
 상상을 현실에 설계하고 구현하는 개발자가 되고 싶습니다.<br>
 필요한 것이 있다면 ‘이론에 기초하여 설계하고, 경험으로 능숙하게 구현해내는 엔지니어’가 되기 위해 열심히 공부하고 있습니다. 
 <!-- who wants to be the best as a Backend engineer!<br> -->
