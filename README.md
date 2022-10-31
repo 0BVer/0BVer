@@ -7,7 +7,7 @@ I'm YOUNGJUN (Joon) KIM, <br>
 <!-- who wants to be the best as a Backend engineer!<br> -->
 <a href = "https://docs.google.com/document/d/1gV-7cceJdqhsjMrwCsY8Wv48iiP1rgmlmQSOvlBKO3k/edit#">Korean Resume</a><br>
 <a href = "https://medium.com/@0joon">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
-<a href = "https://velog.io/@0joon729">![Velog](https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)</a><br>
+<a href = "https://velog.io/@0joon729">![Velog](https://img.shields.io/static/v1?style=flat&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)</a><br>
 <a href = "https://www.linkedin.com/in/youngjun-kim-94bb07213/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href = "mailto:dr0joon@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
 <br>click to move
