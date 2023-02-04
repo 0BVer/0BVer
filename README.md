@@ -5,7 +5,7 @@ I'm YOUNGJUN (Joon) KIM, <br>
 해결사와 같이 어떤 문제든 해결하며, 상상을 현실에 설계하고 구현하는 개발자가 되고 싶습니다.<br>
 필요한 것이 있다면 ‘이론에 기초하여 설계하고, 경험으로 능숙하게 구현해내는 엔지니어’가 되기 위해 열심히 공부하고 있습니다. 
 <!-- who wants to be the best as a Backend engineer!<br> -->
-<a href = "https://docs.google.com/document/d/1gV-7cceJdqhsjMrwCsY8Wv48iiP1rgmlmQSOvlBKO3k/edit#">Korean Resume</a><br>
+<a href = "https://docs.google.com/document/d/1ZbYVzNCzH_d9w2EOwPi2AZDhAIR9rDhsgPcBCLAwIWA/edit">Korean Resume</a><br>
 <a href = "https://medium.com/@0joon">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
 <a href = "https://velog.io/@0joon729">![Velog](https://img.shields.io/static/v1?style=flat&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)</a>
 <a href = "https://www.linkedin.com/in/0joon/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
