@@ -13,6 +13,7 @@ I'm YOUNGJUN (Joon) KIM, <br>
 <br>click to move
 <hr>
 
+<!--
 ### Tech Stacks I've Experienced
 Language<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
@@ -61,3 +62,4 @@ I will learning<br>
 
 </div>
 
+-->
