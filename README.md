@@ -7,9 +7,9 @@ I'm YOUNGJUN (Joon) KIM, <br>
 <!-- who wants to be the best as a Backend engineer!<br> -->
 <a href = "https://docs.google.com/document/d/1ZbYVzNCzH_d9w2EOwPi2AZDhAIR9rDhsgPcBCLAwIWA/edit">Korean Resume</a><br>
 <a href = "https://medium.com/@0joon">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
-<!-- <a href = "https://velog.io/@0joon729">![Velog](https://img.shields.io/static/v1?style=flat&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)</a> -->
 <a href = "https://www.linkedin.com/in/0joon/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href = "mailto:dr0joon@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
+<!-- <a href = "https://velog.io/@0joon729">![Velog](https://img.shields.io/static/v1?style=flat&message=Velog&color=222222&logo=Velog&logoColor=20C997&label=)</a> -->
 <br>click to move
 <hr>
 
