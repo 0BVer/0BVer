@@ -57,7 +57,7 @@ I will learning<br>
 
 <a href="https://github.com/0BVer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&theme=tokyonight&layout=compact&exclude_repo=python_data,sch_AI,Dog120_classification,sch_trial,tools,game_schenario_test,junior-recruit-scheduler,django_login_page,Find-Spot,sch-webapp1,sch_JAVA2,local_chatting,javafx_trial,sch_JAVA1)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&theme=tokyonight&layout=compact&exclude_repo=python_data,sch_AI,Dog120_classification,sch_trial,tools,game_schenario_test,junior-recruit-scheduler,django_login_page,Find-Spot,sch-webapp1,sch_JAVA2,local_chatting,javafx_trial,sch_JAVA1,portfolio,portfolio_page,0bver.github.io,productive-box)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
 </a>
 
 [//]: # ([![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;)
