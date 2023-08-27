@@ -53,12 +53,16 @@ I will learning<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
 <hr>
+-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
+<a href="https://github.com/0BVer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&theme=tokyonight&layout=compact&exclude_repo=python_data,sch_AI,Dog120_classification,sch_trial,tools,game_schenario_test,junior-recruit-scheduler,django_login_page)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+</a>
 
 [//]: # ([![wakatime]&#40;https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg&#41;]&#40;https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d&#41;)
 
 
+
 </div>
 
--->
